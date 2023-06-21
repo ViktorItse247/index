@@ -1,0 +1,26 @@
+body{
+    background-color: gray ;
+}
+h1{
+    font-style: italic;
+    color: blueviolet;
+}
+
+h2{
+    color: red;
+}
+h3{
+    color: blanchedalmond;
+    font-style: oblique;
+}
+h4{
+    color: blueviolet;
+}
+h5{
+color: #000;
+text-shadow: 2px;
+text-decoration: underline;
+}
+p1{
+    color: aqua; 
+}
